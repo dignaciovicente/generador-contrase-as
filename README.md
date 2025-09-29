@@ -27,4 +27,4 @@ Ignacio Vicente Del Rosal Hernández
 Proyecto académico desarrollado como práctica de programación en Python.
 
 
-~~~~
+~~~~~~~~

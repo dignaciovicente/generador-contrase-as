@@ -24,4 +24,4 @@ if __name__ == "__main__":
     password = generar_contrasena(longitud, incluir_mayus, incluir_num, incluir_simbolos)
     print(f"\n✅ Tu contraseña generada es: {password}")
 
-    '''Un ejercicio sencillo de hacer'''
+
